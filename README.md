@@ -53,7 +53,7 @@ Aquí algunos de mis proyectos más interesantes:
 ## 🚀 ¿Dónde encontrarme?
 
 - **GitHub:** [@victor522m](https://github.com/victor522m)  
-- **LinkedIn:** [Enlace a tu perfil]([#](https://www.linkedin.com/in/victorferre/))  
+- **LinkedIn:** [(https://www.linkedin.com/in/victorferre/](https://www.linkedin.com/in/victorferre/)  
 - **Email:** [TuCorreo@ejemplo.com](mailto:victor522m@gmail.com)
 
 ---
