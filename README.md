@@ -6,9 +6,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🌱 **Actualmente estoy aprendiendo:** Python, JavaScript y desarrollo web.
+- 🌱 **Actualmente estoy aprendiendo:** Python.
 - 🔧 **Habilidades:**  
-  - Lenguajes: Python, JavaScript, HTML, CSS  
+  - Lenguajes: Python, Java, HTML, CSS...  
   - Herramientas: Git, VS Code, Linux  
   - Conceptos: Algoritmos, estructuras de datos, POO  
 - 🎯 **Objetivos:** Convertirme en un desarrollador full-stack y colaborar en proyectos open-source.
