@@ -19,26 +19,17 @@
 
 Aquí algunos de mis proyectos más interesantes:
 
-1. **[Proyecto 1: Calculadora en Python](#)**  
-   Una calculadora básica con interfaz CLI que realiza operaciones matemáticas.  
+1. **[Proyecto 1: Escaner de Puertos](https://github.com/victor522m/port_scanner_gui)**  
+   Una interfaz gráfica que escanea y dice las aplicaciones que corren en los puertos de una ip dada.  
    *Tecnologías:* Python.
 
-2. **[Proyecto 2: Landing Page Responsive](#)**  
-   Una página web moderna y adaptativa creada con HTML, CSS y JavaScript.  
-   *Tecnologías:* HTML, CSS, JS.
 
-3. **[Proyecto 3: Script de automatización](#)**  
-   Script en Python que automatiza tareas repetitivas.  
-   *Tecnologías:* Python.
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
