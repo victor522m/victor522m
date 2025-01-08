@@ -22,6 +22,9 @@ Aquí algunos de mis proyectos más interesantes:
 1. **[Proyecto 1: Escaner de Puertos](https://github.com/victor522m/port_scanner_gui)**  
    Una interfaz gráfica que escanea y dice las aplicaciones que corren en los puertos de una ip dada.  
    *Tecnologías:* Python.
+2. **[Proyecto 2: Reloj por Consola](https://github.com/victor522m/OrangeClock/)**  
+   Una programa dummy muestra un reloj por consola.  
+   *Tecnologías:* Python.
 
 
 
