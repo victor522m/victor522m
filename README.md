@@ -25,6 +25,10 @@ Aquí algunos de mis proyectos más interesantes:
 2. **[Proyecto 2: Reloj por Consola](https://github.com/victor522m/OrangeClock/)**  
    Una programa dummy muestra un reloj por consola.  
    *Tecnologías:* Python.
+3. **[Proyecto 3: Captudor de paquetees](https://github.com/victor522m/snifffer/)**  
+   Una programa que captura los paquetes de red.![Under Construction](https://img.shields.io/badge/Under%20Construction-FFCC00?style=flat&logo=construction&logoColor=black)
+   
+   *Tecnologías:* Java.
 
 
 
@@ -33,6 +37,7 @@ Aquí algunos de mis proyectos más interesantes:
 ## 🛠️ Tecnologías y Herramientas
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
