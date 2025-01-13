@@ -25,7 +25,7 @@ Aquí algunos de mis proyectos más interesantes:
 2. **[Proyecto 2: Reloj por Consola](https://github.com/victor522m/OrangeClock/)**  
    Una programa dummy muestra un reloj por consola.  
    *Tecnologías:* Python.
-3. **[Proyecto 3: Captudor de paquetees](https://github.com/victor522m/snifffer/)**  
+3. **[Proyecto 3: Captudor de paquetes](https://github.com/victor522m/snifffer/)**  
    Una programa que captura los paquetes de red. 
    *Tecnologías:* Java.
 
