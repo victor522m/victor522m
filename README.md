@@ -26,7 +26,7 @@ Aquí algunos de mis proyectos más interesantes:
    Una programa dummy muestra un reloj por consola.  
    *Tecnologías:* Python.
 3. **[Proyecto 3: Captudor de paquetees](https://github.com/victor522m/snifffer/)**  
-   Una programa que captura los paquetes de red.![Under Construction](https://img.shields.io/badge/Under%20Construction-FFCC00?style=flat&logo=construction&logoColor=black)
+   Una programa que captura los paquetes de red. 
    *Tecnologías:* Java.
 
 
