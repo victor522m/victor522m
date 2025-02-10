@@ -28,7 +28,7 @@ Aquí algunos de mis proyectos más interesantes:
 3. **[Proyecto 3: Captudor de paquetes](https://github.com/victor522m/snifffer/)**  
    Una programa que captura los paquetes de red. 
    *Tecnologías:* Java.
-4. **[Proyecto 4: catproject]((https://catproject-58nz.onrender.com/))**  
+4. **[Proyecto 4: catproject](https://catproject-58nz.onrender.com/)**  
    Una aplicación que consume datos de The Cat API, permite a los usuarios registrarse, iniciar sesión y guardar sus razas favoritas en una base de datos SQLite.
    *Tecnologías:* Node.js, Express, Sequelize, SQLite, EJS, Bootstrap. .
 
