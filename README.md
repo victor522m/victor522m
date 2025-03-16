@@ -20,7 +20,17 @@
 Aquí algunos de mis proyectos más interesantes:
 
 ### 🔹 [**Article CRUD API**](https://github.com/victor522m/article-crud-api)
-📌 **Descripción:** Una API RESTful para gestionar artículos, que permite operaciones CRUD (Crear, Leer, Actualizar, Eliminar). Implementada usando Spring Boot, con persistencia de datos en MySQL mediante Spring Data JPA.  
+📌 **Descripción:** Una API RESTful para gestionar artículos, que permite operaciones CRUD (Crear, Leer, Actualizar, Eliminar). Implementada usando Spring Boot, con persistencia de datos en MySQL mediante Spring Data JPA.
+#### 🧪 **Pruebas y Configuración**
+Se han añadido pruebas unitarias para verificar el correcto funcionamiento del repositorio JPA:
+- **Guardar y recuperar un artículo**
+- **Obtener todos los artículos**
+- **Eliminar un artículo**
+
+Estas pruebas están implementadas en `ArticleRepositoryTest.java`, `ArticleCrudApplicationTests.java` y `ArticleRepositoryTest` usando **JUnit 5** y **AssertJ**.
+
+> ⚠️ **Nota:** Para ejecutar las pruebas correctamente, es necesario modificar la configuración en `application.properties`, comentando la configuración de la base de datos y utilizando una en memoria (por ejemplo, H2). Una alternativa es configurar un perfil de prueba específico.
+
 💡 **Tecnologías:** Java, Spring Boot, JPA, MySQL.  
 
 ---
