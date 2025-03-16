@@ -15,25 +15,41 @@
 
 ---
 
-## 📂 Proyectos Destacados
+## 📂 **Proyectos Destacados** 🚀
 
 Aquí algunos de mis proyectos más interesantes:
-1. **[Proyecto 1: Article CRUD API](https://github.com/victor522m/article-crud-api)**
-   Una API RESTful para gestionar artículos, que permite operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
-   Implementada usando Spring Boot, con persistencia de datos en MySQL mediante Spring Data JPA.
-   *Tecnologías:* Java, Spring Boot, JPA, MySQL.
-3. **[Proyecto 2: Escaner de Puertos](https://github.com/victor522m/port_scanner_gui)**  
-   Una interfaz gráfica que escanea y dice las aplicaciones que corren en los puertos de una ip dada.  
-   *Tecnologías:* Python.
-4. **[Proyecto 3: Reloj por Consola](https://github.com/victor522m/OrangeClock/)**  
-   Una programa dummy muestra un reloj por consola.  
-   *Tecnologías:* Python.
-5. **[Proyecto 4: Captudor de paquetes](https://github.com/victor522m/snifffer/)**  
-   Una programa que captura los paquetes de red. 
-   *Tecnologías:* Java.
-6. **[Proyecto 5: catproject](https://catproject-58nz.onrender.com/)**  
-   Una aplicación que consume datos de The Cat API, permite a los usuarios registrarse, iniciar sesión y guardar sus razas favoritas en una base de datos SQLite.
-   *Tecnologías:* Node.js, Express, Sequelize, SQLite, EJS, Bootstrap. .
+
+### 🔹 [**Article CRUD API**](https://github.com/victor522m/article-crud-api)
+📌 **Descripción:** Una API RESTful para gestionar artículos, que permite operaciones CRUD (Crear, Leer, Actualizar, Eliminar). Implementada usando Spring Boot, con persistencia de datos en MySQL mediante Spring Data JPA.  
+💡 **Tecnologías:** Java, Spring Boot, JPA, MySQL.  
+
+---
+
+### 🔹 [**Escáner de Puertos**](https://github.com/victor522m/port_scanner_gui)
+📌 **Descripción:** Una interfaz gráfica que escanea los puertos abiertos en una IP dada y muestra qué aplicaciones los están utilizando.  
+💡 **Tecnologías:** Python.  
+
+---
+
+### 🔹 [**Reloj por Consola**](https://github.com/victor522m/OrangeClock/)
+📌 **Descripción:** Un programa sencillo que muestra un reloj en tiempo real dentro de la consola.  
+💡 **Tecnologías:** Python.  
+
+---
+
+### 🔹 [**Capturador de Paquetes**](https://github.com/victor522m/snifffer/)
+📌 **Descripción:** Un programa que captura y analiza paquetes de red en tiempo real.  
+💡 **Tecnologías:** Java.  
+
+---
+
+### 🔹 [**CatProject**](https://catproject-58nz.onrender.com/)
+📌 **Descripción:** Una aplicación web que consume datos de **The Cat API**, permitiendo a los usuarios registrarse, iniciar sesión y guardar sus razas de gatos favoritas en una base de datos SQLite.  
+💡 **Tecnologías:** Node.js, Express, Sequelize, SQLite, EJS, Bootstrap.  
+
+---
+
+✨ ¡Siempre trabajando en nuevos proyectos! 🚀
 
 
 
