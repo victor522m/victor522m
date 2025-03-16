@@ -27,7 +27,7 @@ Se han añadido pruebas unitarias para verificar el correcto funcionamiento del 
 - **Obtener todos los artículos**
 - **Eliminar un artículo**
 
-Estas pruebas están implementadas en `ArticleRepositoryTest.java`, `ArticleCrudApplicationTests.java` y `ArticleRepositoryTest` usando **JUnit 5** y **AssertJ**.
+Estas pruebas están implementadas en `ArticleRepositoryTest.java`, `ArticleCrudApplicationTests.java` y `ArticleRepositoryTest.java` usando **JUnit 5** y **AssertJ**.
 
 > ⚠️ **Nota:** Para ejecutar las pruebas correctamente, es necesario modificar la configuración en `application.properties`, comentando la configuración de la base de datos y utilizando una en memoria (por ejemplo, H2). Una alternativa es configurar un perfil de prueba específico.
 
