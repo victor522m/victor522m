@@ -22,16 +22,16 @@ Aquí algunos de mis proyectos más interesantes:
    Una API RESTful para gestionar artículos, que permite operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
    Implementada usando Spring Boot, con persistencia de datos en MySQL mediante Spring Data JPA.
    *Tecnologías:* Java, Spring Boot, JPA, MySQL.
-2. **[Proyecto 2: Escaner de Puertos](https://github.com/victor522m/port_scanner_gui)**  
+3. **[Proyecto 2: Escaner de Puertos](https://github.com/victor522m/port_scanner_gui)**  
    Una interfaz gráfica que escanea y dice las aplicaciones que corren en los puertos de una ip dada.  
    *Tecnologías:* Python.
-3. **[Proyecto 3: Reloj por Consola](https://github.com/victor522m/OrangeClock/)**  
+4. **[Proyecto 3: Reloj por Consola](https://github.com/victor522m/OrangeClock/)**  
    Una programa dummy muestra un reloj por consola.  
    *Tecnologías:* Python.
-4. **[Proyecto 4: Captudor de paquetes](https://github.com/victor522m/snifffer/)**  
+5. **[Proyecto 4: Captudor de paquetes](https://github.com/victor522m/snifffer/)**  
    Una programa que captura los paquetes de red. 
    *Tecnologías:* Java.
-5. **[Proyecto 5: catproject](https://catproject-58nz.onrender.com/)**  
+6. **[Proyecto 5: catproject](https://catproject-58nz.onrender.com/)**  
    Una aplicación que consume datos de The Cat API, permite a los usuarios registrarse, iniciar sesión y guardar sus razas favoritas en una base de datos SQLite.
    *Tecnologías:* Node.js, Express, Sequelize, SQLite, EJS, Bootstrap. .
 
