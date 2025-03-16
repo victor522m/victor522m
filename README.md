@@ -18,7 +18,7 @@
 ## 📂 Proyectos Destacados
 
 Aquí algunos de mis proyectos más interesantes:
-1. **[Proyecto 1: Article CRUD API]((https://github.com/victor522m/article-crud-api)**
+1. **[Proyecto 1: Article CRUD API](https://github.com/victor522m/article-crud-api)**
    Una API RESTful para gestionar artículos, que permite operaciones CRUD (Crear, Leer, Actualizar, Eliminar).
    Implementada usando Spring Boot, con persistencia de datos en MySQL mediante Spring Data JPA.
    *Tecnologías:* Java, Spring Boot, JPA, MySQL.
