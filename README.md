@@ -113,3 +113,9 @@ Estas pruebas están implementadas en `ArticleRepositoryTest.java`, `ArticleCrud
 ¡Gracias por visitar mi perfil! 😊✨  
 Siéntete libre de explorar mis repositorios y colaborar en proyectos. ¡Siempre estoy abierto a aprender y compartir conocimientos! 🚀
 
+
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/victorferre)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:victor.ferre@proton.me)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/victor522m)
+
