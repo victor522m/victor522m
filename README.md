@@ -9,7 +9,8 @@
 - 🌱 **Actualmente estoy aprendiendo:** Spring y con curiosidad acerca tecnologías de pentestintg.
 - 🔧 **Habilidades:**  
   - Lenguajes: Python, Java, JS ...  
-  - Herramientas: Git, VS Code, Node.js, Spring, React, Linux.  
+  - Herramientas: Git, VS Code, Kali Linux Tools...
+  - Frameworks: Node.js, Spring, React,...   
   - Conceptos: Algoritmos, estructuras de datos, POO. 
 - 🎯 **Objetivos:** Desarrollarme aún más como desarrollador full-stack y colaborar en proyectos open-source.
 
