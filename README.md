@@ -104,8 +104,7 @@ Estas pruebas están implementadas en `ArticleRepositoryTest.java`, `ArticleCrud
 
 ## 🚀 ¿Dónde encontrarme?
 
-- **GitHub:** [@victor522m](https://github.com/victor522m)  
-- **LinkedIn:** [(https://www.linkedin.com/in/victorferre/](https://www.linkedin.com/in/victorferre/)  
+- **LinkedIn:** [https://www.linkedin.com/in/victorferre/](https://www.linkedin.com/in/victorferre/)  
 - **Email:** [victor522m@gmail.com](mailto:victor522m@gmail.com) , [victor.ferre@proton.me](mailto:victor.ferre@proton.me) 
 
 ---
