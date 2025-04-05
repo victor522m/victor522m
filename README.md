@@ -8,10 +8,10 @@
 
 - 🌱 **Actualmente estoy aprendiendo:** Python.
 - 🔧 **Habilidades:**  
-  - Lenguajes: Python, Java, JS, HTML, CSS...  
-  - Herramientas: Git, VS Code, Node.js, Linux  
+  - Lenguajes: Python, Java, JS ...  
+  - Herramientas: Git, VS Code, Node.js, Spring, React, Linux  
   - Conceptos: Algoritmos, estructuras de datos, POO  
-- 🎯 **Objetivos:** Convertirme en un desarrollador full-stack y colaborar en proyectos open-source.
+- 🎯 **Objetivos:** Desarrollarme aún más como desarrollador full-stack y colaborar en proyectos open-source.
 
 ---
 
@@ -106,7 +106,7 @@ Estas pruebas están implementadas en `ArticleRepositoryTest.java`, `ArticleCrud
 
 - **GitHub:** [@victor522m](https://github.com/victor522m)  
 - **LinkedIn:** [(https://www.linkedin.com/in/victorferre/](https://www.linkedin.com/in/victorferre/)  
-- **Email:** [victor522m@gmail.com](mailto:victor522m@gmail.com)
+- **Email:** [victor522m@gmail.com](mailto:victor522m@gmail.com) , [victor.ferre@proton.me](mailto:victor.ferre@proton.me) 
 
 ---
 
