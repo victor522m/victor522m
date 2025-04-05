@@ -9,8 +9,8 @@
 - 🌱 **Actualmente estoy aprendiendo:** Python.
 - 🔧 **Habilidades:**  
   - Lenguajes: Python, Java, JS ...  
-  - Herramientas: Git, VS Code, Node.js, Spring, React, Linux  
-  - Conceptos: Algoritmos, estructuras de datos, POO  
+  - Herramientas: Git, VS Code, Node.js, Spring, React, Linux.  
+  - Conceptos: Algoritmos, estructuras de datos, POO. 
 - 🎯 **Objetivos:** Desarrollarme aún más como desarrollador full-stack y colaborar en proyectos open-source.
 
 ---
