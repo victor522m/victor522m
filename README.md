@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- 🌱 **Actualmente estoy aprendiendo:** Python.
+- 🌱 **Actualmente estoy aprendiendo:** Spring y con curiosidad acerca tecnologías de pentestintg.
 - 🔧 **Habilidades:**  
   - Lenguajes: Python, Java, JS ...  
   - Herramientas: Git, VS Code, Node.js, Spring, React, Linux.  
