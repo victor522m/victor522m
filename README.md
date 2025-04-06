@@ -1,3 +1,5 @@
+![LinkedIn Banner](images/verdeforlinkedinbanner.jpg)
+
 # 👋 ¡Hola, soy Victor! | @victor522m  
 
 ¡Bienvenido a mi perfil de GitHub! 🚀 Aquí encontrarás proyectos, scripts y experimentos que reflejan mi pasión por el desarrollo y la tecnología.
